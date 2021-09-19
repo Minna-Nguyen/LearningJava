@@ -27,7 +27,7 @@ public class T8{
         int eteen = jono.length();
 
         for(int i = eteen- 1; i>=0; i--){
-            taka = taka + jono.charAt(i);
+            taka = taka + jono.charAt(i); //tähän on tallentunut jono takaperin
         }
 
         if(jono.equals(taka)){

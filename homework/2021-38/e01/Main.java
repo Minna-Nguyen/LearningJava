@@ -1,0 +1,1 @@
+// taulukkotehtävien eka ratkaisu

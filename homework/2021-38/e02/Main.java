@@ -12,5 +12,7 @@ class Main {
        System.out.println("Taulukon ensimmainen luku on " + taulukko[0]);
        System.out.println("Taulukon viimeinen luku on " + taulukko[2]);
       
+      // tulostetaan taulukon pituus
+      System.out.println("Taulukon pituus on " + taulukko.length);
     }
 }

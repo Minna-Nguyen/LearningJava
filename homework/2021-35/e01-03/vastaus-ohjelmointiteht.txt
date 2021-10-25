@@ -1,0 +1,14 @@
+Tehtävä 1
+
+- ajetaan Tiedosto, virheilmoitus sanoo ettei se löydä sitä main luokkaa
+
+- ajetaan java A --> virheilmoitus ei löydä main metodia luokassa A. Se pyytää määrittelemään seuraavanlaisesti 'public static void main(String[] args)'
+- sama juttu koskee java B komentoa
+
+Tehtävä 2
+
+- java A komennolla saa ohjelman käynnistettyä ja tulostettua tekstin "Hello!"
+
+Tehtävä 3
+ 
+-virheilmoitus tiedottaa, että tiedoston nimen ja luokan on oltava samannimiset. --> muutettiin tiedoston nimen RoopeAnkka.java:sta Taikaviitta.java

@@ -3,9 +3,9 @@
 public class Main {
     
     public static void main (String [] args) {
-    //String mj = MyString.replaceAll("abc:abc:", 'a', "terve");
+    String mj = MyString.replaceAll("abc:abc:", 'a', "terve");
 
-    System.out.println(MyString.replaceAll("abc:abc:", 'a', "terve"));
+    System.out.println(mj);
     }
 }
 

@@ -1,11 +1,9 @@
-
+import java.io.Console;
 /**
 * Luokka Main sisaltaa printRectangle-metodin, jota kutsutaan main metodista. 
 * Tulostetaan suorakulmion metodin parametrien perusteella.
 * @author Minna
 */
-import java.io.Console;
-
 public class Main{
     public static void main (String []args){
         Console c = System.console();

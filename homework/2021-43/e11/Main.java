@@ -1,9 +1,9 @@
+import java.io.Console;
 
 /**
 * Luokka Main sisaltaa printStars-metodin, jota kutsutaan main metodista. Tulostetaan kuvio.
 * @author Minna
 */
-import java.io.Console;
 
 public class Main{
     public static void main (String []args){

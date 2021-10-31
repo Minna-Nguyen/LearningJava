@@ -1,8 +1,9 @@
+import java.io.Console;
+
 /**
 * Luokka Main sisaltaa printText-metodin, jota kutsutaan main metodista
 * @author Minna
 */
-import java.io.Console;
 
 public class Main{
     public static void main (String []args){

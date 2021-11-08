@@ -42,7 +42,7 @@ class Rectangle {
     }
 
     public Rectangle cloneMe() {
-        return this;
+        return new Rectangle(this.width, this.height);
     }
 
     
@@ -57,7 +57,7 @@ class TestRectangle {
         if(r1.equals(r2)){
             System.out.println("On sama korkeus ja levyes " + "\n" + r1.toString() + "\n" + r2.toString());
         }else{
-            System.out.println("Ei ole sama korkeus a levyes");
+            System.out.println("Ei ole sama korkeus ja levyes");
         }
         
         //r1 ja r2 sisältävät eri muistipaikan osoitteet.
